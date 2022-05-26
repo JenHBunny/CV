@@ -1,0 +1,25 @@
+
+ body
+ {background-color:#DFF3E3;}
+ hr
+ {border-style:none;
+   border-top:5px dotted #D9D7F1;
+width: 100%}
+h1
+{color: #424874;
+  font-family: "garamond", Georgia, Times;}
+h3
+{color: #7C99AC;
+font-family:"garamond", Georgia, Times;}
+
+p
+{color: #11324D;
+font-family: "garamond", Georgia, Times;}
+
+li
+{color: #30475E;
+font-family: "garamond", Georgia, Times;}
+
+table
+{color: #30475E;
+font-family: "garamond", Georgia, Times;}
